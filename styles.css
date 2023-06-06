@@ -5,7 +5,7 @@
 }
 
 html{
-    background-image: url(..Assets/Calistoga.png);
+    background-image: url('../Assets/Calistoga.png');
 }
 
 body{
